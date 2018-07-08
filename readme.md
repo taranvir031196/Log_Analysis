@@ -1,4 +1,4 @@
-# Log_Analysis Project-Udacity
+# log_analysis_project_Udacity
 
 ## PROJECT OVERVIEW-:
 
